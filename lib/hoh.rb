@@ -44,6 +44,6 @@ def naming_system
   hash = {
     :sub1 => [],
     :sub2 => [],
-    :Order => []
+    :Order => "Order"
   }
 end
